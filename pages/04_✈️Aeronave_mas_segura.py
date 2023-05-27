@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargamos los datos 
-accident_data = pd.read_csv("C:\\Users\\luisr\\PI°2\\pages\\data3_accidentes_aereos.csv")   
+accident_data = pd.read_csv("C:\\Users\\luisr\\proyecto2\\pages\\data3_accidentes_aereos.csv")   
 
 # Obtenemos las cuatro aeronaves mas seguras
 safest_aircraft = accident_data.groupby('Tipo de Aeronave')['Total de Fallecidos'].sum().sort_values().index[:4]
