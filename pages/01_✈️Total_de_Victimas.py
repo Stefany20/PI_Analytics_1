@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 # Cargamos la data
-data = pd.read_csv("C:\\Users\\luisr\\proyecto2\\pages\\Tota_victimas_por_ano.csv")
+data = pd.read_csv("pages\Tota_victimas_por_ano.csv")
 
 # grafico interactivo de victimas por año
 total_victimas = data.groupby('Año')[['Total de Fallecidos', 'Numero de personas con lesiones menores', 'Personas Fallecidas en Tierra']].sum()

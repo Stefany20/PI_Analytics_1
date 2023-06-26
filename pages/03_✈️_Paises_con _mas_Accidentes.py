@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 
 # Cargamos los datos
-data = pd.read_csv("C:\\Users\\luisr\\proyecto2\\pages\\data3_accidentes_aereos.csv") 
+data = pd.read_csv("pages\data3_accidentes_aereos.csv") 
 
 # Calculamos la cantidad total de accidentes por pais
 accidentes_por_pais = data['Pais del accidente'].value_counts().reset_index()

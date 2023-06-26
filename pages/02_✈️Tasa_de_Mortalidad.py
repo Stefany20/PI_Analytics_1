@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 #importamos la data que usaremos 
-data = pd.read_csv("C:\\Users\\luisr\\proyecto2\\pages\\Tasa_de_Mortalidad.csv")
+data = pd.read_csv("pages\Tasa_de_Mortalidad.csv")
 
 
 

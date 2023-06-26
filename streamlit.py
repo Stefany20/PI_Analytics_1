@@ -6,7 +6,7 @@ import urllib.request
 
 #Colocamos el logo de OACI  
 image_url = "https://derechoaeronauticoiuac.files.wordpress.com/2013/02/tcbtweet2c2a11.png"
-image_path = "oaci_logo.png"
+image_path = "_src\oacilogo.png"
 urllib.request.urlretrieve(image_url, image_path)
 
 image = Image.open(image_path)
