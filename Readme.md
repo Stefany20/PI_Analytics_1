@@ -9,13 +9,13 @@
 
 Este repositorio contiene el análisis de los accidentes de aviones con referencia a la OACI (Organización de Aviación Civil Internacional).
 
-![logo de OACI](oaci_logo.png)
+![logo de OACI](oacilogo.png)
 
 ## Introducción
 El análisis de los accidentes de aviación es una disciplina crucial en la seguridad y la investigación de la aviación. Se enfoca en estudiar y comprender los factores que contribuyen a los accidentes aéreos.
 
 En este proyecto, exploraremos los principios y las metodologías utilizadas en el análisis de accidentes de aviación
-![Accidentes de Aviones](_src\accidente_avion.jpeg)
+![Accidentes de Aviones](src\accidente_avion.jpeg)
 ## Datos
 
 Utilizaremos el dataset AcidentesAviones y tambien los dataset desde el año 2022 hasta el 2023 de National Transportation Safety Board ya que tiene los datos mas actualizados 
