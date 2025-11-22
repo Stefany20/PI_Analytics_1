@@ -9,7 +9,7 @@
 
 Este repositorio contiene el análisis de los accidentes de aviones con referencia a la OACI (Organización de Aviación Civil Internacional).
 
-![logo de OACI](_src\oacilogo.png)
+![logo de OACI](_src/oacilogo.png)
 
 ## Introducción
 El análisis de los accidentes de aviación es una disciplina crucial en la seguridad y la investigación de la aviación. Se enfoca en estudiar y comprender los factores que contribuyen a los accidentes aéreos.
@@ -23,7 +23,7 @@ Utilizaremos el dataset AcidentesAviones y tambien los dataset desde el año 202
 ## Análisis
 
 Realizamos un Grafico de Dispersion para ver como se relacionan las variables 
-![Dispersion](output.png)
+![Dispersion](_src/output.png)
 
 En el gráfico, podemos observar los siguientes patrones:
 
@@ -32,7 +32,7 @@ En el gráfico, podemos observar los siguientes patrones:
 - Por otro lado, no parece haber una relación clara entre el "Número de Personas con Lesiones" y las "Personas Fallecidas en Tierra". Los puntos oscuros están dispersos en diferentes valores de lesiones y fallecidos en tierra.
 
 Creamos un Grafico de Barra sobre las aeronaves con mas accidentes 
-![Dispersion](output2.png)
+![Dispersion](_src/output2.png)
 
 Aqui podemos ver que la aeronave con mayor numero de accidentes es Havilland Canada DHC-6 Twin Otter
 -Esta aeronave conocido por su versatilidad y capacidad para operar en regiones remotas y difíciles. Esto implica que se utiliza en áreas geográficas y climáticas extremas, como montañas, selvas o zonas polares, donde las condiciones de vuelo pueden ser más desafiantes y aumentar el riesgo de accidentes.
