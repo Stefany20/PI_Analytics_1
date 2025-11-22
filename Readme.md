@@ -1,5 +1,3 @@
-<p align=right><img src=https://th.bing.com/th/id/OIP.CUqEPGqSzaHYWS3lfwSqJwHaHa? height=40>><p>
-
 # <h1 align=center> **PROYECTO INDIVIDUAL # 2**</h1>
 
 ## **# Análisis de Accidentes de Aviones** 
